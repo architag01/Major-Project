@@ -32,4 +32,4 @@ Recognize Alphabet:-
 
 Demo Video:-
 
-https://user-images.githubusercontent.com/59532169/169997357-f720a0b4-f534-42fe-9042-764af3b2bb18.mp4
+// https://user-images.githubusercontent.com/59532169/169997357-f720a0b4-f534-42fe-9042-764af3b2bb18.mp4
